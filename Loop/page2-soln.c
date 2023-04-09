@@ -10,6 +10,7 @@ int main(){
     }
     else s=s-i;
   }
-  
-  retrun 0;
+  printf("%d\n",s);
+    
+  return 0;
 }
